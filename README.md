@@ -1,1 +1,3 @@
 # ProjetoOhashi
+# Wendel
+# Eduardo
