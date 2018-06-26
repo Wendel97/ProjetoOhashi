@@ -53,6 +53,7 @@ if($btnCadUsuario){
 			<input type="submit" name="btnCadUsuario" value="Cadastrar"><br><br>
 			
 			Já possui cadastro? <a href="login.php">Clique aqui</a> para entrar
+			
 		
 		</form>
 	</body>
